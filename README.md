@@ -52,6 +52,10 @@ No sair a sessão é encerrada, retornando então para a página de login.
  ## Sobre o projeto:
  ---------------------------------------------------------------------------------------------------------------------------------
 
-Inicialmente o projeto tem uma tela de login que é acessível pelo usuário Administrador / Administrador (Login e senha);
+- Esse projeto foi desenvolvido utilizando PHP sem framework, JavaScript, HTML e CSS;
 
-O administrador faz o cadastro de novos contatos através da view 
+- Além do mais, foi utilizado a arquitetura MVC (Modules, Views and Controllers);
+
+- Foi utilizado o Banco de dados MySQL através da dashboard admin do PHP.
+
+- O Composer foi instalado. No arquivo composer.json é possível ver informações a respeito do author e também da versão do ORM instalado, o Doctrine; 
