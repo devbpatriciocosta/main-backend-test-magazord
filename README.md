@@ -1,10 +1,8 @@
 <div align='center'>
     Teste para vaga de desenvolvedor back-end no Magazord 
-
-    [Magazord](app/views/img/logo-magazord.png)
 </div>
 
-Esse repositório tem como objetivo provar os conhecimentos em JS, PHP e Banco de Dados para a vaga de desenvolvedor Back-End na empresa [Magazord](app/views/img/logo-magazord.png)
+> Esse repositório tem como objetivo provar os conhecimentos em JS, PHP e Banco de Dados para a vaga de desenvolvedor Back-End na empresa [Magazord](app/views/img/logo-magazord.png)
 
 ## Como configurar e rodar o teste? 
 ---------------------------------------------------------------------------------------------------------------------------------
@@ -27,27 +25,27 @@ Esse repositório tem como objetivo provar os conhecimentos em JS, PHP e Banco d
 
 ## Como usar:
  ---------------------------------------------------------------------------------------------------------------------------------
-Inicialmente é necessário fazer o login de Administrador - Este faz o cadastro de contatos/usuários;
+- Inicialmente é necessário fazer o login de Administrador - Este faz o cadastro de contatos/usuários;
 
-O Administrador/Usuário pode fazer a adição (INSERT) de novos contatos na aba Contatos no NavBar, selecionando a devida opção;
+- O Administrador/Usuário pode fazer a adição (INSERT) de novos contatos na aba Contatos no NavBar, selecionando a devida opção;
 
-Os contatos cadastrados pelo administrador se tornam usuários, como se você só tivesse acesso a aplicação por meio de um convite (como nos primórdios do ORKUT); 
+- Os contatos cadastrados pelo administrador se tornam usuários, como se você só tivesse acesso a aplicação por meio de um convite (como nos primórdios do ORKUT); 
 
-O contato, para ter acesso, precisa ter informação de username e CPF, que no caso é a senha - (Obviamente, o usuário pode alterar a sua senha); 
+- O contato, para ter acesso, precisa ter informação de username e CPF, que no caso é a senha - (Obviamente, o usuário pode alterar a sua senha); 
 
-O usuário tem acesso a lista de contatos da Magazord na aba de contatos/Meus contatos (READ);
+- O usuário tem acesso a lista de contatos da Magazord na aba de contatos/Meus contatos (READ);
 
-Na sessão de meus contatos, é possível fazer uma atualização cadastral do contato (UPDATE) e também apagar um registro (DELETE); 
+- Na sessão de meus contatos, é possível fazer uma atualização cadastral do contato (UPDATE) e também apagar um registro (DELETE); 
 
-Além do mais, ainda é possível adicionar, atualizar ou apagar a foto do contato; 
+- Além do mais, ainda é possível adicionar, atualizar ou apagar a foto do contato; 
 
-Ainda na aba Contatos do NavBar existe a sessão de Pesquisar Contatos - Aqui é possível pesquisar o contato por nome e e-mail e realizar as mesmas ações de READ, UPDATE e DELETE; 
+- Ainda na aba Contatos do NavBar existe a sessão de Pesquisar Contatos - Aqui é possível pesquisar o contato por nome e e-mail e realizar as mesmas ações de READ, UPDATE e DELETE; 
 
-Por fim, no canto direito temos as informações pertinentes ao usuário, como: minha conta, minha foto e sair. 
+- Por fim, no canto direito temos as informações pertinentes ao usuário, como: minha conta, minha foto e sair. 
 
-No minha conta é possível fazer alterações no cadastro (UPDATE) e no minha foto fazer atualização ou deletar a foto. 
+- No minha conta é possível fazer alterações no cadastro (UPDATE) e no minha foto fazer atualização ou deletar a foto. 
 
-No sair a sessão é encerrada, retornando então para a página de login. 
+- No sair a sessão é encerrada, retornando então para a página de login. 
 
  ## Sobre o projeto:
  ---------------------------------------------------------------------------------------------------------------------------------
