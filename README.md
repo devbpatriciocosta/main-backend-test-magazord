@@ -4,7 +4,8 @@
 
 </div>
 
-> Esse repositório tem como objetivo provar os conhecimentos em JS, PHP e Banco de Dados para a vaga de desenvolvedor Back-End na empresa [Magazord](app/views/img/logo-magazord.png)
+> Esse repositório tem como objetivo provar os conhecimentos em JS, PHP e Banco de Dados para a vaga de desenvolvedor Back-End na empresa [Magazord]
+>> Status: Pronto para usar ✅
 
 ## Como configurar e rodar o teste? 
 ---------------------------------------------------------------------------------------------------------------------------------
